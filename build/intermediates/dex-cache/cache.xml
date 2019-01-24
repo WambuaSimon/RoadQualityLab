@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.android\build-cache\7e54d1134891806388d6cfdd3abc6e19ad5c8c8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\classes_64cd30fa140fbd1a6f81895517464c6d9c3c596f.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.7.1-1\381bac8a9251eea3b6a1e12c77d54dd946ad449d\jackson-databind-2.7.1-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="381bac8a9251eea3b6a1e12c77d54dd946ad449d">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\jackson-databind-2.7.1-1_399f3131bbc104217fe42a15cf70b4cb7b14ca86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mobile Projects\RoadLab-Pro\app\src\libs\acra-4.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\acra-4.4.0_366627b77928f573e04d3ef2f5a9e3e9060858da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.android\build-cache\8b3d50304c2aa129093056d828286944118ad8c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\classes_639462d95d392743e4bbe1525e2e37cbc806fb57.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\okio-1.6.0_d77607ad7725214aceeed9eb93895c39d2edb2d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\support-annotations-23.0.0_d2f63f2b9be92f6f3f3f30c04dcee47a7e8139a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.7.1\8b93f301823b79033fcbe873779b3d84f9730fc1\jackson-annotations-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8b93f301823b79033fcbe873779b3d84f9730fc1">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\jackson-annotations-2.7.1_24d531663d1a64e6b1b1a1e7517e4ba3ed3ca2dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.androidplot\androidplot-core\0.6.1\3db0daea52375b26bfa61c59b8df93950bdefbbc\androidplot-core-0.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\androidplot-core-0.6.1_23be86368cbb57e575410f6e494af2ec1087b35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.android\build-cache\ce368ca298c8cdfa0010d7cb794dc2e2b39f6eeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\classes_c55ff813c719db851b09a5f501c6b316edc5cdb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\gson-2.3.1_1f46eb534add825664f340c84d3591e3d2cf7e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\okhttp-2.5.0_962a579b5703d2eff0026329f7cafa7d1abdc11a.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.1\4127b62db028f981e81caa248953c0899d720f98\jackson-core-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4127b62db028f981e81caa248953c0899d720f98">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\jackson-core-2.7.1_2d23a70c0e2292f33bf19cbfa8e2b94421a65126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\commons-io-2.4_1622f8a829aa6d9a65589baa905d25882ac35df8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mobile Projects\RoadLab-Pro\simplekml\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2ad631d2ddbd509599bf501a822d6651033857c">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\classes_bd5251c6309d47608aa4329035a25e288fe1e849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mobile Projects\RoadLab-Pro\app\src\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\commons-net-3.3_0d5aef3ffe3d0af660474f7a9a1e559ba6954f93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.android\build-cache\8b3d50304c2aa129093056d828286944118ad8c7\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\internal_impl-23.0.0_2b15952604685731763c5180423984468ab3d1a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.android\build-cache\0ecb4b9bd34297b8696f2b59c42e1c0ad058cde6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\classes_df6056f9ff6e50690ba900443047083ba38c7114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\retrofit-2.0.0-beta2_4be4762b487583c954bf7f05055cb41808e36860.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.android\build-cache\d955b34c2496dae3362bf19e2f32ad5c8296a3ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df559ab8a9d5d44cf0a49dbb2be402637b90ba90">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\classes_f3f65d72e1abf645feab627377752da73e49e447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.1\4127b62db028f981e81caa248953c0899d720f98\jackson-core-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4127b62db028f981e81caa248953c0899d720f98">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\jackson-core-2.7.1_2d23a70c0e2292f33bf19cbfa8e2b94421a65126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\universal-image-loader-1.9.4_568ee4839dba72ff0e190a515976a0e9c794c4b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.android\build-cache\64ec3bdb1dc7101fbed9dfc5c22036f048ac6cfb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\classes_02e1e18ca27b81fd620cd9573f8fce53e5ba4bd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\universal-image-loader-1.9.4_568ee4839dba72ff0e190a515976a0e9c794c4b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\okio-1.6.0_d77607ad7725214aceeed9eb93895c39d2edb2d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.androidplot\androidplot-core\0.6.1\3db0daea52375b26bfa61c59b8df93950bdefbbc\androidplot-core-0.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\androidplot-core-0.6.1_23be86368cbb57e575410f6e494af2ec1087b35b.jar" />
+    </item>
+    <item
+        jar="D:\Mobile Projects\RoadLab-Pro\app\src\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\commons-net-3.3_0d5aef3ffe3d0af660474f7a9a1e559ba6954f93.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\retrofit-2.0.0-beta2_4be4762b487583c954bf7f05055cb41808e36860.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.7.1\8b93f301823b79033fcbe873779b3d84f9730fc1\jackson-annotations-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8b93f301823b79033fcbe873779b3d84f9730fc1">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\jackson-annotations-2.7.1_24d531663d1a64e6b1b1a1e7517e4ba3ed3ca2dd.jar" />
+    </item>
+    <item
+        jar="D:\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\support-annotations-23.0.0_d2f63f2b9be92f6f3f3f30c04dcee47a7e8139a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.7.1-1\381bac8a9251eea3b6a1e12c77d54dd946ad449d\jackson-databind-2.7.1-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381bac8a9251eea3b6a1e12c77d54dd946ad449d">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\jackson-databind-2.7.1-1_399f3131bbc104217fe42a15cf70b4cb7b14ca86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.android\build-cache\80cfb1a799c08ea190182e85ddc022b80577bf7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\classes_d1734adce7c869d7b534d85b84a4ae06400b3166.jar" />
+    </item>
+    <item
+        jar="D:\Mobile Projects\RoadLab-Pro\app\src\libs\acra-4.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\acra-4.4.0_366627b77928f573e04d3ef2f5a9e3e9060858da.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\commons-io-2.4_1622f8a829aa6d9a65589baa905d25882ac35df8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\gson-2.3.1_1f46eb534add825664f340c84d3591e3d2cf7e43.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\okhttp-2.5.0_962a579b5703d2eff0026329f7cafa7d1abdc11a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.android\build-cache\eca2eea742ea00abbeffd193906c6223ed5e90b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\classes_65f82917b13d5290aee1e13e9b6c2e1792ca5257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mobile Projects\RoadLab-Pro\app\src\libs\opencsv-3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11986807ecb3288728bdb33a3165ce84f057d7a4">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\opencsv-3.2_f50f71651e6ad35c5161d532ad82a78d4545c68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\converter-gson-2.0.0-beta2_05c723bb76ea797939edc10f46ca0cd602dc2826.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\converter-gson-2.0.0-beta2_05c723bb76ea797939edc10f46ca0cd602dc2826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.dropbox.core\dropbox-core-sdk\2.0.1\77167a7c620a5c94426c74c13c547cfad310729a\dropbox-core-sdk-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77167a7c620a5c94426c74c13c547cfad310729a">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\dropbox-core-sdk-2.0.1_15c68bb8350d65cd66feb267c9c8b4f55b91de60.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\com.dropbox.core\dropbox-core-sdk\2.0.1\77167a7c620a5c94426c74c13c547cfad310729a\dropbox-core-sdk-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="77167a7c620a5c94426c74c13c547cfad310729a">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\dropbox-core-sdk-2.0.1_15c68bb8350d65cd66feb267c9c8b4f55b91de60.jar" />
+    </item>
+    <item
+        jar="D:\Mobile Projects\RoadLab-Pro\app\src\libs\opencsv-3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="11986807ecb3288728bdb33a3165ce84f057d7a4">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\opencsv-3.2_f50f71651e6ad35c5161d532ad82a78d4545c68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.android\build-cache\11fd9c8dc9731ada843df450fff1de80b6f92547\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\classes_75d5eb64bf3a576ba1cd8be1fca9b2089a5f1fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\simple-xml-2.7.1_a2ffeda7d6f19b281e6d95eae26d7f8093a76ef7.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIMON WAMBUA\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\simple-xml-2.7.1_a2ffeda7d6f19b281e6d95eae26d7f8093a76ef7.jar" />
+    </item>
+    <item
+        jar="D:\Mobile Projects\RoadLab-Pro\app\src\libs\HockeySDK-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1efe66384574e45d281dcbf0cc2986cd9ebeddef">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\HockeySDK-3.5.0_1c32ce3514e1e0a97e5547e89b3c562ffe0fa580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mobile Projects\RoadLab-Pro\app\src\libs\HockeySDK-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1efe66384574e45d281dcbf0cc2986cd9ebeddef">
+        <dex dex="D:\Mobile Projects\RoadLab-Pro\app\build\intermediates\pre-dexed\defaultConfig\debug\HockeySDK-3.5.0_1c32ce3514e1e0a97e5547e89b3c562ffe0fa580.jar" />
+    </item>
+
+</items>
