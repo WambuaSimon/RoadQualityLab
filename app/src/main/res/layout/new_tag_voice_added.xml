@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     style="@style/CircleLayout">
 
-    <com.softteco.roadlabpro.view.CircleImageView
+    <com.softteco.roadqualitydetector.view.CircleImageView
         style="@style/CircleImageView"
         android:layout_centerInParent="true"
         app:circleColor="@color/apptheme_color"

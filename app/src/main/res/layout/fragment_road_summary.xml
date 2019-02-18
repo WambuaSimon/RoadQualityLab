@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_centerVertical="true">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/project_time_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -43,7 +43,7 @@
             android:text="@string/road_summary_project_time_text"
             android:textColor="@android:color/black" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/project_time_value"
             android:layout_height="wrap_content"
             android:layout_width="150dip"
@@ -64,7 +64,7 @@
         android:layout_height="wrap_content"
         android:layout_centerVertical="true">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/project_roads_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -75,7 +75,7 @@
             android:text="@string/road_summary_project_roads_text"
             android:textColor="@android:color/black" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/project_roads_value"
             android:layout_width="150dip"
             android:layout_height="wrap_content"
@@ -96,7 +96,7 @@
         android:layout_height="wrap_content"
         android:layout_centerVertical="true">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/project_distance_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -107,7 +107,7 @@
             android:text="@string/road_summary_project_distance_text"
             android:textColor="@android:color/black" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/project_distance_value"
             android:layout_width="150dip"
             android:layout_height="wrap_content"
@@ -128,7 +128,7 @@
         android:layout_height="wrap_content"
         android:layout_centerVertical="true">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/project_iri_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -139,7 +139,7 @@
             android:text="@string/road_summary_project_iri_text"
             android:textColor="@android:color/black" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/project_iri_value"
             android:layout_width="150dip"
             android:layout_height="wrap_content"
@@ -158,7 +158,7 @@
         android:layout_height="wrap_content"
         android:layout_centerVertical="true">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/project_speed_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -169,7 +169,7 @@
             android:text="@string/road_summary_project_speed_text"
             android:textColor="@android:color/black" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/project_speed_value"
             android:layout_width="150dip"
             android:layout_height="wrap_content"

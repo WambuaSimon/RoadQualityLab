@@ -11,10 +11,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        tools:context="com.softteco.roadlabpro.fragment.LoginFragment"
+        tools:context="com.softteco.roadqualitydetector.fragment.LoginFragment"
         android:orientation="vertical">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/fr_login_title_transport_ministry"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -77,7 +77,7 @@
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp">
 
-            <com.softteco.roadlabpro.view.CustomButton
+            <com.softteco.roadqualitydetector.view.CustomButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/title_fr_login_signin"

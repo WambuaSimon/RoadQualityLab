@@ -5,7 +5,7 @@
     android:layout_height="wrap_content"
     android:background="@android:color/white">
 
-    <com.softteco.roadlabpro.view.TypefaceTextView
+    <com.softteco.roadqualitydetector.view.TypefaceTextView
         android:id="@+id/dlg_voice_record_header_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -39,7 +39,7 @@
         android:orientation="horizontal"
         android:padding="10dp">
 
-        <com.softteco.roadlabpro.view.CustomButton
+        <com.softteco.roadqualitydetector.view.CustomButton
             android:enabled="false"
             android:id="@+id/dlg_voice_record_id_btn_save"
             android:layout_width="0dp"
@@ -52,7 +52,7 @@
             android:textColor="@android:color/white"
             app:font="@string/font_roboto_medium" />
 
-        <com.softteco.roadlabpro.view.CustomButton
+        <com.softteco.roadqualitydetector.view.CustomButton
             android:id="@+id/dlg_voice_record_id_btn_cancel"
             android:layout_width="0dp"
             android:layout_height="wrap_content"

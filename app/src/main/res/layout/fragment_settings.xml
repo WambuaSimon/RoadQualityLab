@@ -74,7 +74,7 @@
             android:textColor="@android:color/white"
             app:font="@string/font_roboto_medium" />-->
 
-        <com.softteco.roadlabpro.view.CustomButton
+        <com.softteco.roadqualitydetector.view.CustomButton
             android:id="@+id/fr_settings_btn_dbx_login_logout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -85,7 +85,7 @@
             android:textColor="@android:color/white"
             app:font="@string/font_roboto_medium" />
 
-        <com.softteco.roadlabpro.view.CustomButton
+        <com.softteco.roadqualitydetector.view.CustomButton
             android:enabled="false"
             android:id="@+id/fr_settings_btn_sync"
             android:layout_width="match_parent"
@@ -97,7 +97,7 @@
             android:textColor="@android:color/white"
             app:font="@string/font_roboto_medium" />
 
-        <com.softteco.roadlabpro.view.CustomButton
+        <com.softteco.roadqualitydetector.view.CustomButton
             android:id="@+id/fr_settings_btn_reset"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

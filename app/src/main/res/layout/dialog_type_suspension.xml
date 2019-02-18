@@ -4,7 +4,7 @@
     android:layout_width="match_parent" android:layout_height="wrap_content"
     android:background="@android:color/white">
 
-    <com.softteco.roadlabpro.view.TypefaceTextView
+    <com.softteco.roadqualitydetector.view.TypefaceTextView
         android:id="@+id/dlg_type_suspension_header_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -24,7 +24,7 @@
         android:layout_centerHorizontal="true"
         android:background="@color/dialog_divider" />
 
-    <com.softteco.roadlabpro.view.TypefaceTextView
+    <com.softteco.roadqualitydetector.view.TypefaceTextView
         android:id="@+id/dlg_type_suspension_soft_value"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -48,7 +48,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
-    <com.softteco.roadlabpro.view.TypefaceTextView
+    <com.softteco.roadqualitydetector.view.TypefaceTextView
         android:id="@+id/dlg_type_suspension_medium_value"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -72,7 +72,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
-    <com.softteco.roadlabpro.view.TypefaceTextView
+    <com.softteco.roadqualitydetector.view.TypefaceTextView
         android:id="@+id/dlg_type_suspension_hard_value"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -96,7 +96,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
-    <com.softteco.roadlabpro.view.TypefaceTextView
+    <com.softteco.roadqualitydetector.view.TypefaceTextView
         android:id="@+id/dlg_type_suspension_extra_hard_value"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

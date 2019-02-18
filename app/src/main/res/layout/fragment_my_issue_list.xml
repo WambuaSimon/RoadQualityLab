@@ -45,7 +45,7 @@
         android:layout_below="@+id/fr_my_issue_list_container"
         android:background="@drawable/search_divider" />
 
-    <com.softteco.roadlabpro.view.SwipeMenuListView
+    <com.softteco.roadqualitydetector.view.SwipeMenuListView
         android:id="@+id/fr_my_issue_list"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"

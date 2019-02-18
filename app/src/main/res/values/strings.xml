@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">RoadLab Pro</string>
+    <string name="app_name">Road Quality Detector</string>
     <string name="action_settings">Settings</string>
     <string name="device_shaken">Device shaken!</string>
-    <string name="app_description">App for road condition reporting</string>
+    <string name="app_description">Report Road Condition in Real Time</string>
     <string name="ac_menu_start_stop_road_detection">Algorithm for road condition detection</string>
     <string name="ac_menu_export_data">Export of data to spreadsheet</string>
     <string name="print_send_email_subject">Quality road</string>

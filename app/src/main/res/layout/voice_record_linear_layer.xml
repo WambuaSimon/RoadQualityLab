@@ -21,21 +21,21 @@
         android:id="@+id/recordControlsRelativeLayout"
         style="@style/CircleVoiceLayout">
 
-        <com.softteco.roadlabpro.view.CircleImageView
+        <com.softteco.roadqualitydetector.view.CircleImageView
             style="@style/CircleImageView"
             android:layout_centerInParent="true"
             app:circleColor="@color/gray_voice_button"
             app:circleRadius="30" />
 
 
-        <com.softteco.roadlabpro.view.CircleImageView
+        <com.softteco.roadqualitydetector.view.CircleImageView
             android:id="@+id/dialog_voice_stop_record"
             style="@style/CircleImageView"
             android:layout_centerInParent="true"
             app:circleColor="@color/red_voice_button"
             app:circleRadius="30" />
 
-        <com.softteco.roadlabpro.view.CircleImageView
+        <com.softteco.roadqualitydetector.view.CircleImageView
             android:id="@+id/dialog_voice_start_record"
             style="@style/CircleImageView"
             android:layout_centerInParent="true"
@@ -55,13 +55,13 @@
         android:id="@+id/playControlsRelativeLayout"
         style="@style/CircleVoiceLayout">
 
-        <com.softteco.roadlabpro.view.CircleImageView
+        <com.softteco.roadqualitydetector.view.CircleImageView
             style="@style/CircleImageView"
             android:layout_centerInParent="true"
             app:circleColor="@color/gray_voice_button"
             app:circleRadius="30" />
 
-        <com.softteco.roadlabpro.view.CircleImageView
+        <com.softteco.roadqualitydetector.view.CircleImageView
             android:id="@+id/dialog_voice_play_record"
             style="@style/CircleImageView"
             android:layout_centerInParent="true"

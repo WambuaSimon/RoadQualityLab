@@ -11,7 +11,7 @@
     android:gravity="center"
     android:padding="10dp">
 
-    <com.softteco.roadlabpro.view.CircleImageView
+    <com.softteco.roadqualitydetector.view.CircleImageView
         android:id="@+id/tag_list_item_circle"
         style="@style/CircleImageViewInTagList"
         app:circleColor="@color/chart_bad_roads_color"

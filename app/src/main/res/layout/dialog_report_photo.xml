@@ -18,7 +18,7 @@
             android:layout_margin="20dp"
             android:src="@drawable/ic_photo_camera" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
@@ -43,7 +43,7 @@
             android:layout_margin="20dp"
             android:src="@drawable/ic_photo_gallery" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"

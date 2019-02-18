@@ -41,7 +41,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/settings_edit_item_value"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

@@ -2,7 +2,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.softteco.roadlabpro.view.CustomMapView
+    <com.softteco.roadqualitydetector.view.CustomMapView
         android:id="@+id/fr_road_issue_mapview"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

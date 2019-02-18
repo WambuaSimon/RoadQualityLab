@@ -46,7 +46,7 @@ android:background="@android:color/white">
         android:gravity="center"
         android:orientation="vertical">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/speedText"
             android:layout_width="@dimen/chart_size"
             android:layout_height="wrap_content"
@@ -59,7 +59,7 @@ android:background="@android:color/white">
             android:textSize="16dip"
             app:font="@string/font_roboto_bold" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/speedValueText"
             android:layout_width="@dimen/chart_size"
             android:layout_height="wrap_content"
@@ -73,7 +73,7 @@ android:background="@android:color/white">
 
     </LinearLayout>
 
-    <com.softteco.roadlabpro.view.TypefaceTextView
+    <com.softteco.roadqualitydetector.view.TypefaceTextView
         android:id="@+id/recordStatusValue"
         android:layout_width="@dimen/chart_size"
         android:layout_height="wrap_content"
@@ -108,7 +108,7 @@ android:background="@android:color/white">
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/recordStatusValue">
 
-        <com.softteco.roadlabpro.view.CustomMapView
+        <com.softteco.roadqualitydetector.view.CustomMapView
             android:id="@+id/fr_road_issue_mapview"
             android:layout_width="match_parent"
             android:layout_height="@dimen/summary_map_size" />
@@ -148,7 +148,7 @@ android:background="@android:color/white">
         android:gravity="center"
         android:orientation="horizontal">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/roadIntervalText"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -161,7 +161,7 @@ android:background="@android:color/white">
             android:textSize="16dip"
             app:font="@string/font_roboto_regular" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/roadIntervalValue"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -192,7 +192,7 @@ android:background="@android:color/white">
         android:gravity="center"
         android:orientation="horizontal">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/bumpText"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -210,7 +210,7 @@ android:background="@android:color/white">
             android:layout_height="wrap_content"
             android:layout_weight="35">
 
-            <com.softteco.roadlabpro.view.TypefaceTextView
+            <com.softteco.roadqualitydetector.view.TypefaceTextView
                 android:id="@+id/bumpValueText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -241,7 +241,7 @@ android:background="@android:color/white">
         android:gravity="center"
         android:orientation="vertical">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/distanceText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -251,7 +251,7 @@ android:background="@android:color/white">
             android:textSize="16dip"
             app:font="@string/font_roboto_bold" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/distanceValueText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -276,7 +276,7 @@ android:background="@android:color/white">
         android:gravity="center"
         android:orientation="vertical">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/itemsCntText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -286,7 +286,7 @@ android:background="@android:color/white">
             android:textSize="16dip"
             app:font="@string/font_roboto_bold" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/itemsCntValueText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -311,7 +311,7 @@ android:background="@android:color/white">
         android:gravity="center"
         android:orientation="vertical">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/intervalsCntText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -321,7 +321,7 @@ android:background="@android:color/white">
             android:textSize="16dip"
             app:font="@string/font_roboto_bold" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/intervalsCntValueText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -333,7 +333,7 @@ android:background="@android:color/white">
             app:font="@string/font_roboto_bold" />
     </RelativeLayout>
 
-    <com.softteco.roadlabpro.view.CustomButton
+    <com.softteco.roadqualitydetector.view.CustomButton
         android:id="@+id/startMeasurementsBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

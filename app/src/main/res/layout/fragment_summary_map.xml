@@ -8,7 +8,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.softteco.roadlabpro.view.CustomMapView
+    <com.softteco.roadqualitydetector.view.CustomMapView
         android:id="@+id/fr_road_issue_mapview"
         android:layout_width="match_parent"
         android:layout_height="300dip" />
@@ -25,7 +25,7 @@
         android:gravity="center"
         android:orientation="vertical">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/distanceText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -35,7 +35,7 @@
             android:textSize="16dip"
             app:font="@string/font_roboto_bold" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/distanceValueText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -60,7 +60,7 @@
         android:gravity="center"
         android:orientation="vertical">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/itemsCntText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -70,7 +70,7 @@
             android:textSize="16dip"
             app:font="@string/font_roboto_bold" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/itemsCntValueText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -95,7 +95,7 @@
         android:gravity="center"
         android:orientation="vertical">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/intervalsCntText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -105,7 +105,7 @@
             android:textSize="16dip"
             app:font="@string/font_roboto_bold" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/intervalsCntValueText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -117,7 +117,7 @@
             app:font="@string/font_roboto_bold" />
     </RelativeLayout>
 
-    <com.softteco.roadlabpro.view.CustomButton
+    <com.softteco.roadqualitydetector.view.CustomButton
         android:id="@+id/startMeasurementsBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

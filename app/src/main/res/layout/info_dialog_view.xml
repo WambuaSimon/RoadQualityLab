@@ -14,7 +14,7 @@
         android:src="@drawable/ic_device_dialog"
         android:scaleType="center" />
 
-    <com.softteco.roadlabpro.view.TypefaceTextView
+    <com.softteco.roadqualitydetector.view.TypefaceTextView
         android:id="@+id/dialogText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -32,7 +32,7 @@
         android:layout_height="1dip"
         android:background="@color/gray_divider" />
 
-    <com.softteco.roadlabpro.view.CustomButton
+    <com.softteco.roadqualitydetector.view.CustomButton
         android:id="@+id/okButton"
         android:layout_width="match_parent"
         android:layout_height="@dimen/summary_dialog_btns_height"

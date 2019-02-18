@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "553295182802",
+    "firebase_url": "https://road-quality-dector.firebaseio.com",
+    "project_id": "road-quality-dector",
+    "storage_bucket": "road-quality-dector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553295182802:android:231488888f337db2",
+        "android_client_info": {
+          "package_name": "com.softteco.roadqualitydetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553295182802-31j48430gsvtirioa69qt50f2trokboa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Hq5ipPTjWky0gOrTm3ZuXfELpy3GTbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

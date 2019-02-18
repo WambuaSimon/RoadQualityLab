@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true"
-    tools:context="com.softteco.roadlabpro.fragment.NewTagFragment">
+    tools:context="com.softteco.roadqualitydetector.fragment.NewTagFragment">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -13,7 +13,7 @@
         android:background="@android:color/white"
         android:padding="10dp">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/fr_new_tag_road_unique_id"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -31,7 +31,7 @@
             android:textStyle="bold"
             app:font="@string/font_roboto_medium" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/fr_new_tag_road_condition"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -59,13 +59,13 @@
 
             <RelativeLayout style="@style/CircleLayout">
 
-                <com.softteco.roadlabpro.view.CircleImageView
+                <com.softteco.roadqualitydetector.view.CircleImageView
                     android:id="@+id/fr_new_tag_green_circle_border"
                     style="@style/CircleOutImageView"
                     app:circleColor="@android:color/darker_gray"
                     app:circleRadius="34" />
 
-                <com.softteco.roadlabpro.view.CircleImageView
+                <com.softteco.roadqualitydetector.view.CircleImageView
                     android:id="@+id/fr_new_tag_green_circle"
                     style="@style/CircleImageView"
                     app:circleColor="@color/chart_perfect_roads_color"
@@ -80,13 +80,13 @@
 
             <RelativeLayout style="@style/CircleLayout">
 
-                <com.softteco.roadlabpro.view.CircleImageView
+                <com.softteco.roadqualitydetector.view.CircleImageView
                     android:id="@+id/fr_new_tag_yellow_circle_border"
                     style="@style/CircleOutImageView"
                     app:circleColor="@android:color/darker_gray"
                     app:circleRadius="34" />
 
-                <com.softteco.roadlabpro.view.CircleImageView
+                <com.softteco.roadqualitydetector.view.CircleImageView
                     android:id="@+id/fr_new_tag_yellow_circle"
                     style="@style/CircleImageView"
                     app:circleColor="@color/chart_good_roads_color"
@@ -100,12 +100,12 @@
                 android:layout_weight="1" />
 
             <RelativeLayout style="@style/CircleLayout">
-                <com.softteco.roadlabpro.view.CircleImageView
+                <com.softteco.roadqualitydetector.view.CircleImageView
                     android:id="@+id/fr_new_tag_orange_circle_border"
                     style="@style/CircleOutImageView"
                     app:circleColor="@android:color/darker_gray"
                     app:circleRadius="34" />
-                <com.softteco.roadlabpro.view.CircleImageView
+                <com.softteco.roadqualitydetector.view.CircleImageView
                     android:id="@+id/fr_new_tag_orange_circle"
                     style="@style/CircleImageView"
                     app:circleColor="@color/chart_normal_roads_color"
@@ -119,12 +119,12 @@
                 android:layout_weight="1" />
 
             <RelativeLayout style="@style/CircleLayout">
-                <com.softteco.roadlabpro.view.CircleImageView
+                <com.softteco.roadqualitydetector.view.CircleImageView
                     android:id="@+id/fr_new_tag_red_circle_border"
                     style="@style/CircleOutImageView"
                     app:circleColor="@android:color/darker_gray"
                     app:circleRadius="34" />
-                <com.softteco.roadlabpro.view.CircleImageView
+                <com.softteco.roadqualitydetector.view.CircleImageView
                     android:id="@+id/fr_new_tag_red_circle"
                     style="@style/CircleImageView"
                     app:circleColor="@color/chart_bad_roads_color"
@@ -133,7 +133,7 @@
 
         </LinearLayout>
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/fr_new_tag_road_selected_condition"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -154,7 +154,7 @@
             android:layout_below="@+id/fr_new_tag_road_selected_condition"
             android:orientation="horizontal">
 
-            <com.softteco.roadlabpro.view.TypefaceTextView
+            <com.softteco.roadqualitydetector.view.TypefaceTextView
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="true"
@@ -207,7 +207,7 @@
                 android:layout_alignParentTop="true" />
         </RelativeLayout>
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/title_fr_new_tag_voice_comment_text_id"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -285,7 +285,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/fr_report_add_notes">
 
-            <com.softteco.roadlabpro.view.TypefaceTextView
+            <com.softteco.roadqualitydetector.view.TypefaceTextView
                 android:id="@+id/fr_report_value_geo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -326,7 +326,7 @@
             android:orientation="horizontal"
             android:paddingTop="20dp">
 
-            <com.softteco.roadlabpro.view.TypefaceTextView
+            <com.softteco.roadqualitydetector.view.TypefaceTextView
                 android:id="@+id/fr_report_value_date"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -342,7 +342,7 @@
                 android:textColor="@android:color/black"
                 app:font="fonts/Roboto-Regular.ttf" />
 
-            <com.softteco.roadlabpro.view.TypefaceTextView
+            <com.softteco.roadqualitydetector.view.TypefaceTextView
                 android:id="@+id/fr_report_value_time"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"

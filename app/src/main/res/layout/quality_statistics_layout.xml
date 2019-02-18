@@ -16,7 +16,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="25">
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/badText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -27,7 +27,7 @@
             android:text="@string/summary_bad_text"
             android:lines="2"
             android:maxLines="2" />
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/badQualityText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -47,7 +47,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="25">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/normalText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -58,7 +58,7 @@
             android:text="@string/summary_normal_text"
             android:lines="2"
             android:maxLines="2" />
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/normalQualityText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -78,7 +78,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="25">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/goodText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -90,7 +90,7 @@
             android:lines="2"
             android:maxLines="2" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/goodQualityText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -109,7 +109,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="25">
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/perfectText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -121,7 +121,7 @@
             android:lines="2"
             android:maxLines="2" />
 
-        <com.softteco.roadlabpro.view.TypefaceTextView
+        <com.softteco.roadqualitydetector.view.TypefaceTextView
             android:id="@+id/perfectQualityText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
